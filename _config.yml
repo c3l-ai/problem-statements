@@ -4,10 +4,10 @@
 title: A Dataset for Studying the History of Learning Analytics
 description: Full-day workshop at LAK 2027 launching the LAK and JLA archive
 
-# TBD: set once the hosting repository is decided (open decision 5).
-# For a GitHub Pages project site, baseurl is the repository name.
-# url: https://<account>.github.io
-# baseurl: /<repo-name>
+# GitHub Pages project site (open decision 5: personal account).
+# url + baseurl are required for correct asset and link paths.
+url: https://ebbertd.github.io
+baseurl: /lak27_problem_statements_workshop
 
 permalink: pretty
 
