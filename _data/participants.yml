@@ -1,5 +1,6 @@
 # Organisers, rendered by the participants layout.
 # Unfilled fields simply do not render; add any that become known.
+# The url field links a member's name to their staff profile.
 
 groups:
   - title: Organisers
@@ -9,8 +10,10 @@ groups:
       - name: Daniel
         surname: Ebbert
         email: daniel.ebbert@adelaide.edu.au
+        url: https://researchers.adelaide.edu.au/profile/daniel.ebbert
         affil: Centre for Change and Complexity in Learning, Adelaide University
       - name: Srecko
         surname: Joksimovic
         email: srecko.joksimovic@adelaide.edu.au
+        url: https://researchers.adelaide.edu.au/profile/srecko.joksimovic
         affil: Centre for Change and Complexity in Learning, Adelaide University

@@ -20,6 +20,7 @@ The exact front matter and data keys follow the
 | `_data/program.yml` | Schedule: the five workshop blocks (theme expects `program.yml`, not `programme.yml`) |
 | `_data/participants.yml` | Organisers with affiliations and emails |
 | `_sass/_custom.scss` | Accent colour and minor overrides (theme's customisation path) |
+| `_layouts/program.html`, `_layouts/participants.html` | Local overrides of the theme's layouts: the schedule accordion renders expanded, and member names link to staff profiles via a `url` field |
 | `_plugins/remote_theme_deps.rb` | Local-only shim: skips the theme's `github-pages` dependency (needs Ruby < 4.0) so `jekyll build` works with stock Jekyll. Harmless on Pages |
 
 Pages appear in the navigation bar via their `navorder` front-matter key
