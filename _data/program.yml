@@ -1,0 +1,31 @@
+# Single-day schedule: the five workshop blocks from the plan.
+# Times are TBD until the conference programme is final.
+
+legend:
+  title: Blocks
+  categories:
+    - name: Framing
+      color: blue-6
+    - name: Dataset
+      color: teal-6
+    - name: Collaboration
+      color: red-6
+
+days:
+  - name: Workshop day (date TBD)
+    events:
+      - time: TBD
+        title: Rationale and prior findings
+        category: Framing
+      - time: TBD
+        title: Dataset walkthrough
+        category: Dataset
+      - time: TBD
+        title: Small-group question forming
+        category: Collaboration
+      - time: TBD
+        title: Group formation and collaborative work
+        category: Collaboration
+      - time: TBD
+        title: Synthesis and commitments
+        category: Framing
