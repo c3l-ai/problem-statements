@@ -4,8 +4,8 @@ title: A Dataset for Studying the History of Learning Analytics
 description: A full-day workshop at LAK 2027 launching an open dataset of all LAK and JLA publications, with a day to put your own questions to it.
 ---
 
-A full-day, hands-on workshop at LAK 2027 in Brazil. Room and date to be
-announced. Organised by Daniel Ebbert and Srecko Joksimovic, Centre for
+A full-day, hands-on workshop at LAK 2027 in Recife, Brazil. Room and date
+to be announced. Organised by Daniel Ebbert and Srecko Joksimovic, Centre for
 Change and Complexity in Learning, Adelaide University.
 
 **On this page:** [What is this workshop?](#what-is-this-workshop) ·
@@ -93,7 +93,7 @@ final.
 ## Practicalities and FAQ
 
 - **Format.** Full day, hands-on, in English.
-- **Where and when.** LAK 2027 in Brazil; room and exact date to be
+- **Where and when.** LAK 2027 in Recife, Brazil; room and exact date to be
   announced.
 - **Registration.** Through LAK registration.
 - **Will the dataset remain available?** Yes. It is maintained and updated
