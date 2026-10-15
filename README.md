@@ -22,6 +22,13 @@ The exact front matter and data keys follow the
 ## Working locally
 
 ```sh
+./serve.sh
+```
+
+Installs gems on first run (into `vendor/bundle`) and serves the site at
+`http://[IP_ADDRESS]:4000`. Manual equivalent:
+
+```sh
 bundle config set --local path 'vendor/bundle'
 bundle install
 bundle exec jekyll serve
