@@ -1,0 +1,13 @@
+# Organisers, rendered by the participants layout.
+# TBD discipline: names and emails are unknown; unfilled fields (email)
+# simply do not render. Add email once known.
+
+groups:
+  - title: Organisers
+    sort: false
+    columns: false
+    members:
+      - name: TBD
+        affil: Centre for Change and Complexity in Learning, Adelaide University
+      - name: TBD
+        affil: Centre for Change and Complexity in Learning, Adelaide University

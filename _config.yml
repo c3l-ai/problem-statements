@@ -38,3 +38,7 @@ exclude:
 
 sass:
   sourcemap: never
+  # The theme's own stylesheets use @import, which Dart Sass (used by
+  # Jekyll 4 locally) deprecates; GitHub Pages' older stack does not
+  # warn. Silence it locally only.
+  silence_deprecations: import

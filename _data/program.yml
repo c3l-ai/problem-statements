@@ -1,5 +1,5 @@
 # Single-day schedule: the five workshop blocks from the plan.
-# Times are TBD until the conference programme is final.
+# Rough timings; exact times once the conference programme is final.
 
 legend:
   title: Blocks
@@ -14,18 +14,24 @@ legend:
 days:
   - name: Workshop day (date TBD)
     events:
-      - time: TBD
+      - time: 9:00 to 9:45
         title: Rationale and prior findings
         category: Framing
-      - time: TBD
+      - time: 9:45 to 10:45
         title: Dataset walkthrough
         category: Dataset
-      - time: TBD
+      - time: 10:45 to 11:00
+        title: Coffee break
+      - time: 11:00 to 12:30
         title: Small-group question forming
         category: Collaboration
-      - time: TBD
+      - time: 12:30 to 13:30
+        title: Lunch break
+      - time: 13:30 to 15:30
         title: Group formation and collaborative work
         category: Collaboration
-      - time: TBD
+      - time: 15:30 to 15:45
+        title: Coffee break
+      - time: 15:45 to 17:00
         title: Synthesis and commitments
         category: Framing

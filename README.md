@@ -1,6 +1,6 @@
 # LAK 2027 Workshop Website
 
-Participant-facing one-page site for the LAK 2027 workshop
+Participant-facing site for the LAK 2027 workshop
 "A Dataset for Studying the History of Learning Analytics: A Workshop
 Launching the LAK and JLA Archive".
 
@@ -13,11 +13,18 @@ The exact front matter and data keys follow the
 | Path | Purpose |
 |------|---------|
 | `_config.yml` | Site metadata, theme, plugins. `url`/`baseurl` are TBD until hosting is decided (open decision 5) |
-| `index.md` | The one page, all ten sections |
+| `index.md` | Landing page: workshop description, audience, practicalities, FAQ, contact |
+| `program.md` | Schedule page (`program` layout), rendered from `_data/program.yml` |
+| `participants.md` | Organisers page (`participants` layout), rendered from `_data/participants.yml` |
 | `_data/index.yml` | Hero alerts and the registration CTA button |
 | `_data/program.yml` | Schedule: the five workshop blocks (theme expects `program.yml`, not `programme.yml`) |
+| `_data/participants.yml` | Organisers with affiliations and emails |
 | `_sass/_custom.scss` | Accent colour and minor overrides (theme's customisation path) |
 | `_plugins/remote_theme_deps.rb` | Local-only shim: skips the theme's `github-pages` dependency (needs Ruby < 4.0) so `jekyll build` works with stock Jekyll. Harmless on Pages |
+
+Pages appear in the navigation bar via their `navorder` front-matter key
+(the home page is reached through the header title instead). A `map.md`
+venue page can be added once the room is known.
 
 ## Working locally
 
