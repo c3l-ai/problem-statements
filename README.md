@@ -16,7 +16,7 @@ The exact front matter and data keys follow the
 | `index.md` | Landing page: workshop description, audience, practicalities, FAQ, contact |
 | `program.md` | Schedule page (`program` layout), rendered from `_data/program.yml` |
 | `participants.md` | Organisers page (`participants` layout), rendered from `_data/participants.yml` |
-| `_data/index.yml` | Hero alerts and the registration CTA button |
+| `_data/index.yml` | Optional: hero alerts and CTA buttons. Currently absent, so none render |
 | `_data/program.yml` | Schedule: the five workshop blocks (theme expects `program.yml`, not `programme.yml`) |
 | `_data/participants.yml` | Organisers with affiliations and emails |
 | `_sass/_custom.scss` | Accent colour and minor overrides (theme's customisation path) |
