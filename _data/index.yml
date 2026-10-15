@@ -1,12 +1,7 @@
-# Alerts and buttons rendered by the index layout.
-# TBD discipline: unfilled fields simply do not render.
+# Alerts rendered by the index layout.
+# Registration happens through LAK, so there is no registration button here.
 
 alerts:
   - title: Workshop accepted
     text: Full-day workshop at LAK 2027 in Brazil. Room and date to be announced.
     color: green-1
-
-buttons:
-  - text: Register
-    url: # TBD: registration link once LAK registration opens
-    disabled: true

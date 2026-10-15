@@ -1,6 +1,6 @@
 ---
 layout: program
-title: The Day
+title: Schedule
 description: The workshop day, block by block
 navorder: 1
 ---

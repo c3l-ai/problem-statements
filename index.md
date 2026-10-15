@@ -1,7 +1,7 @@
 ---
 layout: index
 title: A Dataset for Studying the History of Learning Analytics
-description: A full-day workshop at LAK 2027 launching an open dataset of all LAK and JLA publications — and a day to put your own questions to it.
+description: A full-day workshop at LAK 2027 launching an open dataset of all LAK and JLA publications, with a day to put your own questions to it.
 ---
 
 A full-day, hands-on workshop at LAK 2027 in Brazil. Room and date to be
@@ -10,8 +10,8 @@ Change and Complexity in Learning, Adelaide University.
 
 **On this page:** [What is this workshop?](#what-is-this-workshop) ·
 [The dataset](#the-dataset) · [What we found](#what-we-found) ·
-[Who should come](#who-should-come) · [The day]({% link program.md %}) ·
-[Before you arrive](#before-you-arrive) ·
+[Who should come](#who-should-come) · [Schedule]({% link program.md %}) ·
+[What to bring](#what-to-bring) ·
 [What you will leave with](#what-you-will-leave-with) ·
 [Practicalities and FAQ](#practicalities-and-faq) · [Contact](#contact)
 
@@ -41,8 +41,7 @@ questions (1984).
 **Who maintains it.** The Centre for Change and Complexity in Learning at
 Adelaide University, with a yearly update commitment.
 
-**Licence and access.** Covered in the dataset walkthrough. Dataset DOI:
-TBD.
+**Access.** Access to the dataset is provided during the workshop.
 
 ## What we found
 
@@ -51,7 +50,7 @@ across the history of LAK and JLA. The result: research remains
 concentrated on describing and relating educational phenomena, with
 comparatively limited attention to explanation and intervention. We argue
 this reflects a socio-technical misalignment between analytical innovation
-and the institutional structures required to sustain it — not a failure of
+and the institutional structures required to sustain it, not a failure of
 the research community.
 
 The dataset answered our question. Now it can answer yours.
@@ -69,29 +68,25 @@ you have not had the data to pursue. In particular:
 We anticipate 20 to 30 participants, small enough for focused group work
 with direct access to the dataset.
 
-## The day
+## Schedule
 
-A hands-on day in English, moving from framing to collaborative work in
-five blocks. See [the schedule]({% link program.md %}) for the full
-programme.
+A hands-on day in English, moving through five blocks from framing to
+collaborative work. See the [Schedule]({% link program.md %}) page for the
+full programme; times are approximate until the conference programme is
+final.
 
-## Before you arrive
+## What to bring
 
 - A laptop and charger.
-- Any account needed for dataset access — registered participants will be
-  told exactly what, in advance.
-- Optional: skim the exemplar analysis in advance. A link will appear here
-  once the analysis is publicly available.
-- Optional: tell us what you want to know about the field of learning
-  analytics. A short question form will open before the workshop; your
-  answers feed directly into the small-group sessions.
+- Some coding skills for analysis. The collaborative blocks involve working
+  with the dataset directly.
 
 ## What you will leave with
 
 - Persistent access to the dataset.
 - Scoped research questions you care about.
 - Collaborator connections.
-- Concrete routes toward LAK or JLA submissions.
+- Planned routes to paper submissions.
 - The post-workshop synthesis, compiled by the organisers and shared with
   all participants.
 
@@ -100,19 +95,10 @@ programme.
 - **Format.** Full day, hands-on, in English.
 - **Where and when.** LAK 2027 in Brazil; room and exact date to be
   announced.
-- **Do I need to code?** Not necessarily. Question forming and scoping do
-  not require programming. If your group's question calls for analysis,
-  you decide together what tools to use. We will confirm expectations
-  here before the workshop.
+- **Registration.** Through LAK registration.
 - **Will the dataset remain available?** Yes. It is maintained and updated
   yearly by the Centre for Change and Complexity in Learning at Adelaide
   University.
-- **Can I attend remotely?** To be confirmed with the conference
-  organisers.
-- **Code of conduct and accessibility.** The workshop runs under the LAK
-  code of conduct. If you have accessibility needs, contact us.
-- **Dataset licence.** Stated in the dataset walkthrough and listed here
-  once final.
 
 ## Contact
 

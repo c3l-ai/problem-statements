@@ -1,42 +1,27 @@
 # Single-day schedule: the five workshop blocks from the camera-ready.
 # Rough timings; exact times once the conference programme is final.
 
-legend:
-  title: Blocks
-  categories:
-    - name: Framing
-      color: blue-6
-    - name: Dataset
-      color: teal-6
-    - name: Collaboration
-      color: red-6
-
 days:
   - name: Workshop day (date TBD)
     events:
       - time: 9:00 to 9:45
         title: Rationale and prior findings
-        subtitle: Motivation for this research, and the completed analysis of the kinds of questions asked across the history of LA — an example of what the dataset affords.
-        category: Framing
+        subtitle: Motivation for this research, and the completed analysis of the kinds of questions asked across the history of LA, as an example of what the dataset affords.
       - time: 9:45 to 10:45
         title: Dataset walkthrough
-        subtitle: You get access to the dataset, and a guided tour of what data is available, how it is structured, how access works, the licence, and known limitations.
-        category: Dataset
+        subtitle: You get access to the dataset, and a guided tour of what data is available, how it is structured, and known limitations.
       - time: 10:45 to 11:00
         title: Coffee break
       - time: 11:00 to 12:30
         title: Small-group question forming
         subtitle: In small groups, brainstorm and discuss ideas for future research based on the data. We help you scope questions against what the dataset can and cannot support.
-        category: Collaboration
       - time: 12:30 to 13:30
         title: Lunch break
       - time: 13:30 to 15:30
         title: Group formation and collaborative work
         subtitle: Regroup around the ideas developed in the small-group sessions and work on a chosen idea for the remainder of the workshop.
-        category: Collaboration
       - time: 15:30 to 15:45
         title: Coffee break
       - time: 15:45 to 17:00
         title: Synthesis and commitments
         subtitle: Groups share what they found and what needs follow-up. We close by identifying concrete next steps, including routes to LAK or JLA submissions.
-        category: Framing
