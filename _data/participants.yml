@@ -1,13 +1,16 @@
 # Organisers, rendered by the participants layout.
-# TBD discipline: names and emails are unknown; unfilled fields (email)
-# simply do not render. Add email once known.
+# Unfilled fields simply do not render; add any that become known.
 
 groups:
   - title: Organisers
     sort: false
     columns: false
     members:
-      - name: TBD
+      - name: Daniel
+        surname: Ebbert
+        email: daniel.ebbert@adelaide.edu.au
         affil: Centre for Change and Complexity in Learning, Adelaide University
-      - name: TBD
+      - name: Srecko
+        surname: Joksimovic
+        email: srecko.joksimovic@adelaide.edu.au
         affil: Centre for Change and Complexity in Learning, Adelaide University

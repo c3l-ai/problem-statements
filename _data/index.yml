@@ -2,7 +2,7 @@
 # TBD discipline: unfilled fields simply do not render.
 
 alerts:
-  - title: Save the date
+  - title: Workshop accepted
     text: Full-day workshop at LAK 2027 in Brazil. Room and date to be announced.
     color: green-1
 

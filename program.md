@@ -1,11 +1,10 @@
 ---
 layout: program
 title: The Day
-description: Schedule of the workshop day
+description: The workshop day, block by block
 navorder: 1
 ---
 
-The day is built around five blocks: rationale and prior findings, a
-dataset walkthrough, small-group question forming, group formation and
-collaborative work, and a closing synthesis. Times are approximate until
-the conference programme is final.
+The workshop is hands-on and conducted in English. It moves through five
+blocks, from framing to collaborative work. Times in the schedule below
+are approximate until the conference programme is final.
