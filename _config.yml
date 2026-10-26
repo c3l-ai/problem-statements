@@ -4,10 +4,10 @@
 title: A Dataset for Studying the History of Learning Analytics
 description: Full-day workshop at LAK 2027 launching the LAK and JLA archive
 
-# GitHub Pages project site (open decision 5: personal account).
-# url + baseurl are required for correct asset and link paths.
-url: https://ebbertd.github.io
-baseurl: /lak27_problem_statements_workshop
+# Custom domain, served at the subdomain root, so baseurl is empty.
+# The CNAME file in the repo root binds the domain on GitHub Pages.
+url: https://problem-statements.c3l.ai
+baseurl: ""
 
 permalink: pretty
 

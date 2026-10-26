@@ -12,7 +12,7 @@ The exact front matter and data keys follow the
 
 | Path | Purpose |
 |------|---------|
-| `_config.yml` | Site metadata, theme, plugins. Hosted at `https://ebbertd.github.io/lak27_problem_statements_workshop/` |
+| `_config.yml` | Site metadata, theme, plugins. Hosted at `https://problem-statements.c3l.ai/` |
 | `index.md` | Landing page: workshop description, audience, practicalities, FAQ, contact |
 | `program.md` | Schedule page (`program` layout), rendered from `_data/program.yml` |
 | `participants.md` | Organisers page (`participants` layout), rendered from `_data/participants.yml` |
