@@ -12,7 +12,7 @@ The exact front matter and data keys follow the
 
 | Path | Purpose |
 |------|---------|
-| `_config.yml` | Site metadata, theme, plugins. Hosted at `https://problem-statements.c3l.ai/` |
+| `_config.yml` | Site metadata, theme, plugins. Hosted at `https://c3l-ai.github.io/problem-statements/` |
 | `index.md` | Landing page: workshop description, audience, practicalities, FAQ, contact |
 | `program.md` | Schedule page (`program` layout), rendered from `_data/program.yml` |
 | `participants.md` | Organisers page (`participants` layout), rendered from `_data/participants.yml` |
@@ -44,10 +44,10 @@ bundle exec jekyll serve
 
 ## Deployment
 
-GitHub Pages builds Jekyll natively; `remote_theme` requires no GitHub
-Actions workflow. There, the theme's `github-pages` dependency is provided
-by the Pages environment itself, so `_plugins/remote_theme_deps.rb` is a
-no-op. `indexing: false` in `_config.yml` keeps crawlers away until launch;
-flip it to `true` when publishing. TBD values (room, times, registration
-link, dataset DOI) are marked neutrally in the source so they are trivial
-to fill in later.
+GitHub Pages builds the site from `main` using `.github/workflows/jekyll.yml`
+and publishes it as the project site at
+`https://c3l-ai.github.io/problem-statements/`. The workflow passes the Pages
+base path to Jekyll so theme assets are generated under `/problem-statements/`.
+`indexing: false` in `_config.yml` keeps crawlers away until launch; flip it to
+`true` when publishing. TBD values (room, times, registration link, dataset DOI)
+are marked neutrally in the source so they are trivial to fill in later.
