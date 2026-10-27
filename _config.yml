@@ -4,10 +4,9 @@
 title: A Dataset for Studying the History of Learning Analytics
 description: Full-day workshop at LAK 2027 launching the LAK and JLA archive
 
-# GitHub Pages project site. The deploy workflow passes the same base path
-# from actions/configure-pages so asset URLs resolve under /problem-statements/.
-url: https://c3l-ai.github.io
-baseurl: /problem-statements
+# Custom domain, served from the domain root.
+url: https://problem-statements.c3l.ai
+baseurl: ""
 
 permalink: pretty
 
@@ -21,7 +20,7 @@ plugins:
   - jekyll-sitemap
 
 # Destination of the header title button and the 404 return link.
-home: /problem-statements/
+home: /
 
 # Unset: the theme suppresses the footer copyright notice entirely.
 # copyright: Centre for Change and Complexity in Learning
